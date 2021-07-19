@@ -10,7 +10,7 @@ Telegram PrivateAutoCaption © @Mo_Tech_YT
   </a>
   
   <a href="https://github.com/PR0FESS0R-99/PrivateAutoCaption/fork">
-    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/PrivateAutoCaption?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/surajkmr00/Autoname?label=Fork&style=social">
 
   </a>  
 </p>
@@ -47,8 +47,7 @@ Telegram PrivateAutoCaption © @Mo_Tech_YT
 <details><summary>Support</summary>
 <p>
 <pre>
-                                                                                                            
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
+                                                                                                           
    
 **Report Bugs**, Give Feature Requests There..
    
